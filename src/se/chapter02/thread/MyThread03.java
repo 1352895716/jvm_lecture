@@ -10,7 +10,9 @@ package se.chapter02.thread;
 public class MyThread03 {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+
+        System.out.println("hello thread");
+        System.out.println("I love you");
     }
 
 }
